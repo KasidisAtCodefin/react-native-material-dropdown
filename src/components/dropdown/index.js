@@ -9,9 +9,9 @@ import {
   TouchableWithoutFeedback,
   Dimensions,
   Platform,
-  ViewPropTypes,
   I18nManager,
 } from 'react-native';
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import Ripple from 'react-native-material-ripple';
 import { TextField } from 'react-native-material-textfield';
 
